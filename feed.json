@@ -1,0 +1,1362 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Matthew Shanley",
+	"icon": "https://micro.blog/arkadyan/avatar.jpg",
+	"home_page_url": "https://micro.matthewshanley.com/",
+	"feed_url": "https://micro.matthewshanley.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://arkadyan.micro.blog/2020/07/29/freshly-painted.html",
+				
+				"content_html": "<p>Freshly painted</p>\n\n<p><img src=\"uploads/2020/b10c410f4c.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Freshly painted \n\n<img src=\"uploads/2020/b10c410f4c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-07-29T12:20:05-04:00",
+				"url": "https://micro.matthewshanley.com/2020/07/29/freshly-painted.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/07/11/fire-and-sparks.html",
+				
+				"content_html": "<p>Fire and sparks</p>\n\n<p><img src=\"uploads/2020/9759adbd74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Fire and sparks\n\n<img src=\"uploads/2020/9759adbd74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-07-11T12:41:57-04:00",
+				"url": "https://micro.matthewshanley.com/2020/07/11/fire-and-sparks.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/07/08/large-trees.html",
+				
+				"content_html": "<p>Large trees</p>\n\n<p><img src=\"uploads/2020/6953e88ec9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Large trees\n\n<img src=\"uploads/2020/6953e88ec9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-07-08T10:56:00-04:00",
+				"url": "https://micro.matthewshanley.com/2020/07/08/large-trees.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/05/02/after-the-fire.html",
+				
+				"content_html": "<p>After the fire</p>\n\n<p>#oaxaca #threadcaravanoaxaca #mezcalrealminero</p>\n\n<p><img src=\"uploads/2020/d9dc32f0ab.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "After the fire\n\n#oaxaca #threadcaravanoaxaca #mezcalrealminero\n\n<img src=\"uploads/2020/d9dc32f0ab.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-05-02T11:22:26-04:00",
+				"url": "https://micro.matthewshanley.com/2020/05/02/after-the-fire.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/04/25/magnolia-bud.html",
+				
+				"content_html": "<p>Magnolia bud</p>\n\n<p><img src=\"uploads/2020/ff0ed28654.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Magnolia bud\n\n<img src=\"uploads/2020/ff0ed28654.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-04-26T00:14:28-04:00",
+				"url": "https://micro.matthewshanley.com/2020/04/25/magnolia-bud.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/04/15/first-blooms.html",
+				
+				"content_html": "<p>First blooms</p>\n\n<p><img src=\"uploads/2020/7e5262eb80.jpg\" width=\"600\" height=\"361\" alt=\"\" /></p>\n",
+				"content_text": "First blooms\n\n<img src=\"uploads/2020/7e5262eb80.jpg\" width=\"600\" height=\"361\" alt=\"\" />\n",
+				"date_published": "2020-04-15T08:53:21-04:00",
+				"url": "https://micro.matthewshanley.com/2020/04/15/first-blooms.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/03/31/ill-be-listening.html",
+				
+				"content_html": "<p>I&rsquo;ll be listening to <a href=\"https://thequietus.com/articles/28047-krzysztof-penderecki-rip\">Penderecki</a> today.</p>\n",
+				"content_text": "I'll be listening to [Penderecki](https://thequietus.com/articles/28047-krzysztof-penderecki-rip) today.\n",
+				"date_published": "2020-03-31T10:54:16-04:00",
+				"url": "https://micro.matthewshanley.com/2020/03/31/ill-be-listening.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/03/30/moon-beach-ogunquit.html",
+				
+				"content_html": "<p>Moon Beach</p>\n\n<p>#ogunquit</p>\n\n<p><img src=\"uploads/2020/3c17127e93.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Moon Beach\n\n#ogunquit\n\n<img src=\"uploads/2020/3c17127e93.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-03-30T10:57:43-04:00",
+				"url": "https://micro.matthewshanley.com/2020/03/30/moon-beach-ogunquit.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/03/20/america-has-discovered.html",
+				
+				"content_html": "<p>America has discovered the passeggiata.</p>\n",
+				"content_text": "America has discovered the passeggiata.\n",
+				"date_published": "2020-03-20T19:43:23-04:00",
+				"url": "https://micro.matthewshanley.com/2020/03/20/america-has-discovered.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/03/08/happy-hockey-hair.html",
+				
+				"content_html": "<p>Happy <a href=\"https://www.youtube.com/watch?v=VuDeBAYhKO0\">Hockey Hair</a> Weekend!</p>\n",
+				"content_text": "Happy [Hockey Hair](https://www.youtube.com/watch?v=VuDeBAYhKO0) Weekend!\n",
+				"date_published": "2020-03-08T21:22:01-04:00",
+				"url": "https://micro.matthewshanley.com/2020/03/08/happy-hockey-hair.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/02/28/for-folks-in.html",
+				
+				"content_html": "<p>For folks in the Boston area, I&rsquo;ll be giving a talk Monday night at the <a href=\"https://www.meetup.com/Boston-Elixir/events/268664910/\">Boston Elixir meetup</a>. Come hear about customer technology at the MBTA.</p>\n",
+				"content_text": "For folks in the Boston area, I'll be giving a talk Monday night at the [Boston Elixir meetup](https://www.meetup.com/Boston-Elixir/events/268664910/). Come hear about customer technology at the MBTA.\n",
+				"date_published": "2020-02-28T13:34:58-04:00",
+				"url": "https://micro.matthewshanley.com/2020/02/28/for-folks-in.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/02/28/posse-oaxaca-threadcaravanoaxaca.html",
+				
+				"content_html": "<p>Posse</p>\n\n<p>#oaxaca #threadcaravanoaxaca</p>\n\n<p><img src=\"uploads/2020/b69076db41.jpg\" width=\"600\" height=\"373\" alt=\"\" /></p>\n",
+				"content_text": "Posse\n\n#oaxaca #threadcaravanoaxaca\n\n<img src=\"uploads/2020/b69076db41.jpg\" width=\"600\" height=\"373\" alt=\"\" />\n",
+				"date_published": "2020-02-28T11:00:45-04:00",
+				"url": "https://micro.matthewshanley.com/2020/02/28/posse-oaxaca-threadcaravanoaxaca.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/02/24/the-mbta-is.html",
+				
+				"content_html": "<p><a href=\"https://www.boston.com/news/local-news/2020/02/24/mbta-tests-real-time-info-18-mbta-bus-stops\">The MBTA is testing real-time bus information displays at 18 stops around Greater Boston</a></p>\n",
+				"content_text": "[The MBTA is testing real-time bus information displays at 18 stops around Greater Boston](https://www.boston.com/news/local-news/2020/02/24/mbta-tests-real-time-info-18-mbta-bus-stops)\n",
+				"date_published": "2020-02-24T13:50:03-04:00",
+				"url": "https://micro.matthewshanley.com/2020/02/24/the-mbta-is.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/02/15/uffizi-gallery.html",
+				
+				"content_html": "<p>Uffizi Gallery</p>\n\n<p><img src=\"uploads/2020/13e44553d5.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Uffizi Gallery\n\n<img src=\"uploads/2020/13e44553d5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-02-15T13:13:03-04:00",
+				"url": "https://micro.matthewshanley.com/2020/02/15/uffizi-gallery.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/02/08/mezcal-truck-oaxaca.html",
+				
+				"content_html": "<p>Mezcal truck</p>\n\n<p>#oaxaca #threadcaravanoaxaca #mezcalrealminero</p>\n\n<p><img src=\"uploads/2020/695998089e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Mezcal truck\n\n#oaxaca #threadcaravanoaxaca #mezcalrealminero\n\n<img src=\"uploads/2020/695998089e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-02-08T16:31:43-04:00",
+				"url": "https://micro.matthewshanley.com/2020/02/08/mezcal-truck-oaxaca.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/28/magueys-and-a.html",
+				
+				"content_html": "<p>Magueys and a bat house at Proyecto LAM</p>\n\n<p>#oaxaca #threadcaravanoaxaca #mezcalrealminero</p>\n\n<p><img src=\"uploads/2020/dc756a7f0a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Magueys and a bat house at Proyecto LAM\n\n#oaxaca #threadcaravanoaxaca #mezcalrealminero\n\n<img src=\"uploads/2020/dc756a7f0a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-01-28T09:13:07-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/28/magueys-and-a.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/25/jardn-etnobotnico-oaxaca.html",
+				
+				"content_html": "<p>Jardín Etnobotánico</p>\n\n<p>#oaxaca #threadcaravanoaxaca</p>\n\n<p><img src=\"uploads/2020/fca83b04d8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Jardín Etnobotánico \n\n#oaxaca #threadcaravanoaxaca\n\n<img src=\"uploads/2020/fca83b04d8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-01-25T15:13:17-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/25/jardn-etnobotnico-oaxaca.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/19/jardn-etnobotnico-oaxaca.html",
+				
+				"content_html": "<p>Jardín Etnobotánico</p>\n\n<p>#oaxaca #threadcaravanoaxaca</p>\n\n<p><img src=\"uploads/2020/3096f8de96.jpg\" width=\"533\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Jardín Etnobotánico\n\n#oaxaca #threadcaravanoaxaca\n\n<img src=\"uploads/2020/3096f8de96.jpg\" width=\"533\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-01-19T17:03:57-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/19/jardn-etnobotnico-oaxaca.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/16/supplies-oaxaca-threadcaravanoaxaca.html",
+				
+				"content_html": "<p>Supplies</p>\n\n<p>#oaxaca #threadcaravanoaxaca</p>\n\n<p><img src=\"uploads/2020/440747f615.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Supplies\n\n#oaxaca #threadcaravanoaxaca\n\n<img src=\"uploads/2020/440747f615.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-01-16T20:12:39-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/16/supplies-oaxaca-threadcaravanoaxaca.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/13/maguey-pias-oaxaca.html",
+				
+				"content_html": "<p>Maguey piñas</p>\n\n<p>#oaxaca #threadcaravanoaxaca</p>\n\n<p><img src=\"uploads/2020/1da62b0410.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Maguey piñas\n\n#oaxaca #threadcaravanoaxaca\n\n<img src=\"uploads/2020/1da62b0410.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-01-13T17:56:25-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/13/maguey-pias-oaxaca.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/12/dining-room-oaxaca.html",
+				
+				"content_html": "<p>Dining room</p>\n\n<p>#oaxaca #threadcaravanoaxaca #casamosca</p>\n\n<p><img src=\"uploads/2020/72ab1e016b.jpg\" width=\"527\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dining room\n\n#oaxaca #threadcaravanoaxaca #casamosca\n\n<img src=\"uploads/2020/72ab1e016b.jpg\" width=\"527\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-01-12T12:30:47-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/12/dining-room-oaxaca.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/09/casa-mosca-nuestra.html",
+				
+				"content_html": "<p>Casa Mosca, nuestra hermosa casa para la semana</p>\n\n<p>#oaxaca #threadcaravanoaxaca</p>\n\n<p><img src=\"uploads/2020/469ddc6977.jpg\" width=\"600\" height=\"425\" alt=\"\" /></p>\n",
+				"content_text": "Casa Mosca, nuestra hermosa casa para la semana\n\n#oaxaca #threadcaravanoaxaca\n\n<img src=\"uploads/2020/469ddc6977.jpg\" width=\"600\" height=\"425\" alt=\"\" />\n",
+				"date_published": "2020-01-09T22:38:30-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/09/casa-mosca-nuestra.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/09/jardn-etnobotnico-oaxaca.html",
+				
+				"content_html": "<p>Jardín Etnobotánico</p>\n\n<p>#oaxaca #threadcaravanoaxaca</p>\n\n<p><img src=\"uploads/2020/097e895aa7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Jardín Etnobotánico\n\n#oaxaca #threadcaravanoaxaca\n\n<img src=\"uploads/2020/097e895aa7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-01-09T12:59:59-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/09/jardn-etnobotnico-oaxaca.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2020/01/03/templo-de-santo.html",
+				
+				"content_html": "<p>Templo de Santo Domingo de Guzmán</p>\n\n<p>#oaxaca</p>\n\n<p><img src=\"uploads/2020/1ddd217c42.jpg\" width=\"428\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Templo de Santo Domingo de Guzmán\n\n#oaxaca\n\n<img src=\"uploads/2020/1ddd217c42.jpg\" width=\"428\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-01-03T18:09:09-04:00",
+				"url": "https://micro.matthewshanley.com/2020/01/03/templo-de-santo.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/12/27/freyja-in-front.html",
+				
+				"content_html": "<p>Freyja in front of a window</p>\n\n<p><img src=\"uploads/2019/6baced539b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Freyja in front of a window\n\n<img src=\"uploads/2019/6baced539b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-12-27T10:53:51-04:00",
+				"url": "https://micro.matthewshanley.com/2019/12/27/freyja-in-front.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/12/21/christmas-living-room.html",
+				
+				"content_html": "<p>Christmas living room</p>\n\n<p><img src=\"uploads/2019/8295d1772f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Christmas living room\n\n<img src=\"uploads/2019/8295d1772f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-12-21T12:59:07-04:00",
+				"url": "https://micro.matthewshanley.com/2019/12/21/christmas-living-room.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/11/21/red-blue-yellow.html",
+				
+				"content_html": "<p><a href=\"https://blog.littlesecretsrecords.com/red-blue-yellow/\">Red Blue Yellow</a></p>\n",
+				"content_text": "[Red Blue Yellow](https://blog.littlesecretsrecords.com/red-blue-yellow/)\n",
+				"date_published": "2019-11-21T13:04:10-04:00",
+				"url": "https://micro.matthewshanley.com/2019/11/21/red-blue-yellow.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/11/01/the-trick-to.html",
+				
+				"content_html": "<p>The trick to understanding politics in the United States? <a href=\"https://messaging-custom-newsletters.nytimes.com/template/oakv2?uri=nyt://newsletter/1d3456f5-04fa-4fd0-a966-a5fbac681515&amp;te=1&amp;nl=the-interpreter&amp;emc=edit_int_20191101?campaign_id=30&amp;instance_id=13537\">Look to South America.</a></p>\n",
+				"content_text": "The trick to understanding politics in the United States? [Look to South America.](https://messaging-custom-newsletters.nytimes.com/template/oakv2?uri=nyt://newsletter/1d3456f5-04fa-4fd0-a966-a5fbac681515&te=1&nl=the-interpreter&emc=edit_int_20191101?campaign_id=30&instance_id=13537)\n",
+				"date_published": "2019-11-01T16:39:54-04:00",
+				"url": "https://micro.matthewshanley.com/2019/11/01/the-trick-to.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/10/31/230554.html",
+				
+				"content_html": "<p>Rainy Halloween 🎃</p>\n\n<p><img src=\"uploads/2019/d0852daace.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rainy Halloween 🎃\n\n<img src=\"uploads/2019/d0852daace.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-10-31T23:05:54-04:00",
+				"url": "https://micro.matthewshanley.com/2019/10/31/230554.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/10/31/game-of-late.html",
+				
+				"content_html": "<p><a href=\"https://blog.littlesecretsrecords.com/game-of-late-night-working-life/\">Game of Late Night Working Life</a></p>\n",
+				"content_text": "[Game of Late Night Working Life](https://blog.littlesecretsrecords.com/game-of-late-night-working-life/)\n",
+				"date_published": "2019-10-31T11:02:45-04:00",
+				"url": "https://micro.matthewshanley.com/2019/10/31/game-of-late.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/10/30/brent-writes-you.html",
+				
+				"content_html": "<p>Brent writes, “<a href=\"https://inessential.com/2019/10/29/you_choose\">You Choose</a>_”</p>\n",
+				"content_text": "Brent writes, “[You Choose](https://inessential.com/2019/10/29/you_choose)_”\n",
+				"date_published": "2019-10-30T11:23:39-04:00",
+				"url": "https://micro.matthewshanley.com/2019/10/30/brent-writes-you.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/09/13/how-mbtacom-listens.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/mbta-tech/how-mbta-com-listens-and-learns-from-you-2ad53664b52f\">How mbta.com listens and learns from you</a></p>\n",
+				"content_text": "[How mbta.com listens and learns from you](https://medium.com/mbta-tech/how-mbta-com-listens-and-learns-from-you-2ad53664b52f)\n",
+				"date_published": "2019-09-13T10:26:58-04:00",
+				"url": "https://micro.matthewshanley.com/2019/09/13/how-mbtacom-listens.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/09/04/tunnel.html",
+				
+				"content_html": "<p>Tunnel</p>\n\n<p><img src=\"uploads/2019/ea04e238a4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tunnel\n\n<img src=\"uploads/2019/ea04e238a4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-04T13:03:21-04:00",
+				"url": "https://micro.matthewshanley.com/2019/09/04/tunnel.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/09/03/lines-on-lines.html",
+				
+				"content_html": "<p>Lines on lines</p>\n\n<p>#seattlepubliclibrary</p>\n\n<p><img src=\"uploads/2019/9c3ff17803.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lines on lines\n\n#seattlepubliclibrary\n\n<img src=\"uploads/2019/9c3ff17803.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-03T13:52:15-04:00",
+				"url": "https://micro.matthewshanley.com/2019/09/03/lines-on-lines.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/09/03/announcement-post-for.html",
+				
+				"content_html": "<p>Announcement post for a big project I’ve been working on: <a href=\"https://medium.com/mbta-tech/skate-building-a-better-bus-dispatch-app-and-how-it-will-improve-your-ride-51965d8ef7b9\">Skate: Building a better bus dispatch app (and how it will improve your ride)</a> 🚌</p>\n",
+				"content_text": "Announcement post for a big project I’ve been working on: [Skate: Building a better bus dispatch app (and how it will improve your ride)](https://medium.com/mbta-tech/skate-building-a-better-bus-dispatch-app-and-how-it-will-improve-your-ride-51965d8ef7b9) 🚌\n",
+				"date_published": "2019-09-03T09:41:42-04:00",
+				"url": "https://micro.matthewshanley.com/2019/09/03/announcement-post-for.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/09/02/dwarfed-olympicsculpturepark-spaceneedle.html",
+				
+				"content_html": "<p>Dwarfed</p>\n\n<p>#olympicsculpturepark #spaceneedle</p>\n\n<p><img src=\"uploads/2019/34941b8cf5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dwarfed\n\n#olympicsculpturepark #spaceneedle \n\n<img src=\"uploads/2019/34941b8cf5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-02T12:14:50-04:00",
+				"url": "https://micro.matthewshanley.com/2019/09/02/dwarfed-olympicsculpturepark-spaceneedle.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/09/01/scalato-seattlepubliclibrary.html",
+				
+				"content_html": "<p>scalato</p>\n\n<p>#seattlepubliclibrary</p>\n\n<p><img src=\"uploads/2019/a96ddea8e6.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "scalato\n\n#seattlepubliclibrary\n\n<img src=\"uploads/2019/a96ddea8e6.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-09-01T12:11:51-04:00",
+				"url": "https://micro.matthewshanley.com/2019/09/01/scalato-seattlepubliclibrary.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/08/31/bright-lights-seattle.html",
+				
+				"content_html": "<p>Bright lights</p>\n\n<p>#seattle #mariners</p>\n\n<p><img src=\"uploads/2019/929a1d3e1b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bright lights\n\n#seattle #mariners\n\n<img src=\"uploads/2019/929a1d3e1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-08-31T12:37:38-04:00",
+				"url": "https://micro.matthewshanley.com/2019/08/31/bright-lights-seattle.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/08/30/field-discoverypark.html",
+				
+				"content_html": "<p>Field</p>\n\n<p>#discoverypark</p>\n\n<p><img src=\"uploads/2019/4649887c82.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Field\n\n#discoverypark\n\n<img src=\"uploads/2019/4649887c82.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-08-30T13:29:15-04:00",
+				"url": "https://micro.matthewshanley.com/2019/08/30/field-discoverypark.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/08/29/view-portlandjapanesegarden.html",
+				
+				"content_html": "<p>View</p>\n\n<p>#portlandjapanesegarden</p>\n\n<p><img src=\"uploads/2019/837628feaa.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "View\n\n#portlandjapanesegarden \n\n<img src=\"uploads/2019/837628feaa.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-08-29T14:39:55-04:00",
+				"url": "https://micro.matthewshanley.com/2019/08/29/view-portlandjapanesegarden.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/08/28/bridge-fremont-bridge.html",
+				
+				"content_html": "<p>Bridge</p>\n\n<p>#fremont #bridge</p>\n\n<p><img src=\"uploads/2019/7c9ab01110.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bridge\n\n#fremont #bridge\n\n<img src=\"uploads/2019/7c9ab01110.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-08-28T11:31:24-04:00",
+				"url": "https://micro.matthewshanley.com/2019/08/28/bridge-fremont-bridge.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/08/27/shaft-seattlepubliclibrary.html",
+				
+				"content_html": "<p>Shaft</p>\n\n<p>#seattlepubliclibrary</p>\n\n<p><img src=\"uploads/2019/c1c12b8f06.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Shaft\n\n#seattlepubliclibrary\n\n<img src=\"uploads/2019/c1c12b8f06.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-08-27T20:05:53-04:00",
+				"url": "https://micro.matthewshanley.com/2019/08/27/shaft-seattlepubliclibrary.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/08/01/its-a-struggle.html",
+				
+				"content_html": "<p>“It’s a struggle if blowing bubbles is”</p>\n",
+				"content_text": "“It’s a struggle if blowing bubbles is”\n",
+				"date_published": "2019-08-01T16:35:44-04:00",
+				"url": "https://micro.matthewshanley.com/2019/08/01/its-a-struggle.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/07/08/ice-cream-faces.html",
+				
+				"content_html": "<p>Ice cream faces</p>\n\n<p><img src=\"uploads/2019/7e37311761.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ice cream faces\n\n<img src=\"uploads/2019/7e37311761.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-07-08T19:36:57-04:00",
+				"url": "https://micro.matthewshanley.com/2019/07/08/ice-cream-faces.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/07/07/fireworks.html",
+				
+				"content_html": "<p>Fireworks</p>\n\n<p><img src=\"uploads/2019/69285f8ac7.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Fireworks \n\n<img src=\"uploads/2019/69285f8ac7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2019-07-07T21:59:25-04:00",
+				"url": "https://micro.matthewshanley.com/2019/07/07/fireworks.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/05/31/the-whistleblower-whisperernot.html",
+				
+				"content_html": "<p><a href=\"https://www.npr.org/2019/05/29/728001911/episode-916-the-whistleblower-whisperer\">The Whistleblower Whisperer</a>\nNot a typical Planet Money episode.</p>\n",
+				"content_text": "[The Whistleblower Whisperer](https://www.npr.org/2019/05/29/728001911/episode-916-the-whistleblower-whisperer)\nNot a typical Planet Money episode. \n",
+				"date_published": "2019-05-31T06:52:08-04:00",
+				"url": "https://micro.matthewshanley.com/2019/05/31/the-whistleblower-whisperernot.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/05/29/mbtacom-is-now.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/@gshkolnik/mbta-com-is-now-open-source-64f2d9fdff0d\">mbta.com is now open source</a></p>\n",
+				"content_text": "[mbta.com is now open source](https://medium.com/@gshkolnik/mbta-com-is-now-open-source-64f2d9fdff0d)\n",
+				"date_published": "2019-05-29T16:27:13-04:00",
+				"url": "https://micro.matthewshanley.com/2019/05/29/mbtacom-is-now.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/04/16/white-on-white.html",
+				
+				"content_html": "<p>White on white</p>\n\n<p><img src=\"uploads/2019/273c69f00b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "White on white\n\n<img src=\"uploads/2019/273c69f00b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-04-16T22:14:31-04:00",
+				"url": "https://micro.matthewshanley.com/2019/04/16/white-on-white.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/03/20/i-dont-feel.html",
+				
+				"content_html": "<p>“I don’t feel comfortable discussing my altimeter.”</p>\n",
+				"content_text": "“I don’t feel comfortable discussing my altimeter.”\n",
+				"date_published": "2019-03-20T07:35:36-04:00",
+				"url": "https://micro.matthewshanley.com/2019/03/20/i-dont-feel.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/03/13/this-conversation-is.html",
+				
+				"content_html": "<p>This conversation is so damn fantastic.</p>\n\n<p><a href=\"https://www.theringer.com/2019/2/28/18244556/cooking-as-an-art-with-jerry-saltz\">Cooking As an Art, With Jerry Saltz on The Dave Chang Show</a></p>\n",
+				"content_text": "This conversation is so damn fantastic. \n\n[Cooking As an Art, With Jerry Saltz on The Dave Chang Show](https://www.theringer.com/2019/2/28/18244556/cooking-as-an-art-with-jerry-saltz)\n",
+				"date_published": "2019-03-13T19:26:32-04:00",
+				"url": "https://micro.matthewshanley.com/2019/03/13/this-conversation-is.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/03/05/from-trash-it.html",
+				
+				"content_html": "<p>From trash it came and to trash it shall return.</p>\n\n<p><img src=\"uploads/2019/84fbcb86cb.jpg\" width=\"450\" height=\"600\" alt=\"Toy guitar\" /></p>\n",
+				"content_text": "From trash it came and to trash it shall return. \n\n<img src=\"uploads/2019/84fbcb86cb.jpg\" width=\"450\" height=\"600\" alt=\"Toy guitar\" />\n",
+				"date_published": "2019-03-06T00:43:39-04:00",
+				"url": "https://micro.matthewshanley.com/2019/03/05/from-trash-it.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/01/28/our-goal-better.html",
+				
+				"content_html": "<p><a href=\"https://betterbus.mbta.com\">Our goal: better bus service</a></p>\n",
+				"content_text": "[Our goal: better bus service](https://betterbus.mbta.com)\n",
+				"date_published": "2019-01-28T16:34:29-04:00",
+				"url": "https://micro.matthewshanley.com/2019/01/28/our-goal-better.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2019/01/22/mbta-v-api.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/mbta-tech/v3-api-open-source-edition-b008a9a0af0\">MBTA V3 API: Open Source Edition</a></p>\n",
+				"content_text": "[MBTA V3 API: Open Source Edition](https://medium.com/mbta-tech/v3-api-open-source-edition-b008a9a0af0)\n",
+				"date_published": "2019-01-22T15:08:31-04:00",
+				"url": "https://micro.matthewshanley.com/2019/01/22/mbta-v-api.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/12/29/they-have-absorbed.html",
+				
+				"content_html": "<p>They have absorbed the loss.</p>\n",
+				"content_text": "They have absorbed the loss.\n",
+				"date_published": "2018-12-29T18:55:50-04:00",
+				"url": "https://micro.matthewshanley.com/2018/12/29/they-have-absorbed.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/11/16/represent-see-what.html",
+				
+				"content_html": "<p><a href=\"https://projects.propublica.org/represent/\">Represent: See what your representatives in Congress say and do.</a></p>\n",
+				"content_text": "[Represent: See what your representatives in Congress say and do.](https://projects.propublica.org/represent/)\n",
+				"date_published": "2018-11-16T12:28:03-04:00",
+				"url": "https://micro.matthewshanley.com/2018/11/16/represent-see-what.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/11/07/203304.html",
+				
+				"content_html": "<p>Song of the moment: “Ceremony”. Every version I can find. 🎵</p>\n",
+				"content_text": "Song of the moment: “Ceremony”. Every version I can find. 🎵\n",
+				"date_published": "2018-11-07T16:33:04-04:00",
+				"url": "https://micro.matthewshanley.com/2018/11/07/203304.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/11/06/152800.html",
+				
+				"content_html": "<p>I Voted\n<img src=\"https://micro.matthewshanley.com/uploads/2018/12970d052a.jpg\" alt=\"A5D7A3D4-8FA3-4431-BC32-5D27562B799D.jpg\" /></p>\n",
+				"content_text": "I Voted\n![A5D7A3D4-8FA3-4431-BC32-5D27562B799D.jpg](https://micro.matthewshanley.com/uploads/2018/12970d052a.jpg)\n",
+				"date_published": "2018-11-06T11:28:00-04:00",
+				"url": "https://micro.matthewshanley.com/2018/11/06/152800.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/11/06/song-of-the.html",
+				
+				"content_html": "<p>Song of the moment: “Teenage Wasteland” by Wussy. I just can’t get enough. 🎵</p>\n",
+				"content_text": "Song of the moment: “Teenage Wasteland” by Wussy. I just can’t get enough. 🎵\n",
+				"date_published": "2018-11-05T20:57:59-04:00",
+				"url": "https://micro.matthewshanley.com/2018/11/05/song-of-the.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/29/days-until-pitchers.html",
+				
+				"content_html": "<p>107 days until pitchers and catchers ⚾️</p>\n",
+				"content_text": "107 days until pitchers and catchers ⚾️\n",
+				"date_published": "2018-10-29T00:10:47-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/29/days-until-pitchers.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/29/035902.html",
+				
+				"content_html": "<p>⚾️!</p>\n",
+				"content_text": "⚾️!\n",
+				"date_published": "2018-10-28T23:59:02-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/28/035902.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/25/how-actblue-is.html",
+				
+				"content_html": "<p><a href=\"https://fivethirtyeight.com/features/how-actblue-is-trying-to-turn-small-donations-into-a-blue-wave/\">How ActBlue Is Trying To Turn Small Donations Into A Blue Wave</a></p>\n",
+				"content_text": "[How ActBlue Is Trying To Turn Small Donations Into A Blue Wave](https://fivethirtyeight.com/features/how-actblue-is-trying-to-turn-small-donations-into-a-blue-wave/)\n",
+				"date_published": "2018-10-25T16:11:03-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/25/how-actblue-is.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/24/the-perfect-undercover.html",
+				
+				"content_html": "<p><a href=\"https://www.reddit.com/r/transit/comments/9qrq6f/the_perfect_undercover_disguise/?st=JNMNWCIF&amp;sh=0ebefdcf\">The perfect undercover disguise</a></p>\n",
+				"content_text": "[The perfect undercover disguise](https://www.reddit.com/r/transit/comments/9qrq6f/the_perfect_undercover_disguise/?st=JNMNWCIF&sh=0ebefdcf)\n",
+				"date_published": "2018-10-24T10:11:13-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/24/the-perfect-undercover.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/23/omi-deer-artomi.html",
+				
+				"content_html": "<p>Omi Deer</p>\n\n<p>#artomi\n<img src=\"https://micro.matthewshanley.com/uploads/2018/3c914513a6.jpg\" alt=\"B1104DDB-C690-408B-9A79-D5F50809C1B6.jpg\" /></p>\n",
+				"content_text": "Omi Deer\n\n#artomi\n![B1104DDB-C690-408B-9A79-D5F50809C1B6.jpg](https://micro.matthewshanley.com/uploads/2018/3c914513a6.jpg)\n",
+				"date_published": "2018-10-23T18:41:48-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/23/omi-deer-artomi.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/19/important-thinking-on.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/sidewalk-talk/an-update-on-data-governance-for-sidewalk-toronto-d810245f10f7\">Important thinking on responsible urban data governance</a></p>\n",
+				"content_text": "[Important thinking on responsible urban data governance](https://medium.com/sidewalk-talk/an-update-on-data-governance-for-sidewalk-toronto-d810245f10f7)\n",
+				"date_published": "2018-10-19T15:01:23-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/19/important-thinking-on.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/17/today-is-your.html",
+				
+				"content_html": "<p>Today is your last day to <a href=\"https://www.sec.state.ma.us/OVR/\">register to vote</a> in the Commonwealth of Massachusetts.</p>\n",
+				"content_text": "Today is your last day to [register to vote](https://www.sec.state.ma.us/OVR/) in the Commonwealth of Massachusetts.\n",
+				"date_published": "2018-10-17T12:09:24-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/17/today-is-your.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/15/the-narrow-gauge.html",
+				
+				"content_html": "<p><a href=\"https://www.bostonnarrowgauge.com\">The Narrow Gauge</a> Boston’s forgotten railroad</p>\n",
+				"content_text": "[The Narrow Gauge](https://www.bostonnarrowgauge.com) Boston’s forgotten railroad\n",
+				"date_published": "2018-10-15T13:36:56-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/15/the-narrow-gauge.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/10/06/excitement-is-in.html",
+				
+				"content_html": "<p>Excitement is in the air at #Fenway\n<img src=\"https://micro.matthewshanley.com/uploads/2018/c25528508c.jpg\" alt=\"F0117B0E-4A83-468A-9B95-650CBEFFBB49.jpg\" /></p>\n",
+				"content_text": "Excitement is in the air at #Fenway\n![F0117B0E-4A83-468A-9B95-650CBEFFBB49.jpg](https://micro.matthewshanley.com/uploads/2018/c25528508c.jpg)\n",
+				"date_published": "2018-10-05T20:00:00-04:00",
+				"url": "https://micro.matthewshanley.com/2018/10/05/excitement-is-in.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/09/25/postgres-explain-visualizer.html",
+				
+				"content_html": "<p><a href=\"http://tatiyants.com/pev/\">Postgres explain visualizer</a></p>\n",
+				"content_text": "[Postgres explain visualizer](http://tatiyants.com/pev/)\n",
+				"date_published": "2018-09-25T16:36:37-04:00",
+				"url": "https://micro.matthewshanley.com/2018/09/25/postgres-explain-visualizer.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/09/24/better-bus-predictions.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/mbta-tech/better-bus-predictions-a-lot-better-64169f1edeee\">Better bus predictions (a lot better)</a></p>\n",
+				"content_text": "[Better bus predictions (a lot better)](https://medium.com/mbta-tech/better-bus-predictions-a-lot-better-64169f1edeee)\n",
+				"date_published": "2018-09-24T14:18:11-04:00",
+				"url": "https://micro.matthewshanley.com/2018/09/24/better-bus-predictions.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/09/05/hey-jack-kerouac.html",
+				
+				"content_html": "<p>“Hey Jack Kerouac” has been running through my head for a week.  <a href=\"https://www.youtube.com/watch?v=hWtN9OUMfqM&amp;feature=share\">10,000 Manics live</a></p>\n",
+				"content_text": "“Hey Jack Kerouac” has been running through my head for a week.  [10,000 Manics live](https://www.youtube.com/watch?v=hWtN9OUMfqM&feature=share)\n",
+				"date_published": "2018-09-05T09:04:35-04:00",
+				"url": "https://micro.matthewshanley.com/2018/09/05/hey-jack-kerouac.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/09/04/230706.html",
+				
+				"content_html": "<p>I Voted\n📸</p>\n\n<p><img src=\"uploads/2018/d6f6aa533d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "I Voted\n📸 \n\n<img src=\"uploads/2018/d6f6aa533d.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-09-04T19:07:06-04:00",
+				"url": "https://micro.matthewshanley.com/2018/09/04/230706.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/27/primary-elections-in.html",
+				
+				"content_html": "<p>Primary elections in MA are a week from tomorrow. <a href=\"http://wheredoivotema.com\">WhereDoIVoteMA.com</a> and <a href=\"https://www.bostonglobe.com/section/2018-primary-election-guide\">The Boston Globe’s Election Guide</a> are a couple good initial reference points.</p>\n",
+				"content_text": "Primary elections in MA are a week from tomorrow. [WhereDoIVoteMA.com](http://wheredoivotema.com) and [The Boston Globe’s Election Guide](https://www.bostonglobe.com/section/2018-primary-election-guide) are a couple good initial reference points.\n",
+				"date_published": "2018-08-27T10:45:44-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/27/primary-elections-in.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/22/can-i-have.html",
+				
+				"content_html": "<p>“Can I have everything louder than everything else?”\n— Ian Gillan\n🎵</p>\n",
+				"content_text": "“Can I have everything louder than everything else?” \n— Ian Gillan\n🎵 \n",
+				"date_published": "2018-08-21T22:07:00-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/21/can-i-have.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/20/happy-whyday-everyone.html",
+				
+				"content_html": "<p>Happy Whyday everyone</p>\n",
+				"content_text": "Happy Whyday everyone \n",
+				"date_published": "2018-08-19T22:52:44-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/19/happy-whyday-everyone.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/17/how-to-make.html",
+				
+				"content_html": "<p><a href=\"https://cooking.nytimes.com/guides/45-how-to-make-jam\">How to Make Jam</a></p>\n",
+				"content_text": "[How to Make Jam](https://cooking.nytimes.com/guides/45-how-to-make-jam)\n",
+				"date_published": "2018-08-17T15:44:17-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/17/how-to-make.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/17/190530.html",
+				
+				"content_html": "<p>Things that existed in my childhood life, but don’t so much in my adult life:</p>\n\n<p>Bazookas</p>\n",
+				"content_text": "Things that existed in my childhood life, but don’t so much in my adult life:\n\nBazookas\n",
+				"date_published": "2018-08-17T15:05:30-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/17/190530.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/15/things-that-existed.html",
+				
+				"content_html": "<p>Things that existed in my childhood life, but don’t so much in my adult life:</p>\n\n<p>Dune buggies</p>\n",
+				"content_text": "Things that existed in my childhood life, but don’t so much in my adult life:\n\nDune buggies \n",
+				"date_published": "2018-08-14T20:57:56-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/14/things-that-existed.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/03/after-the-shower.html",
+				
+				"content_html": "<p>After the shower #Fenway</p>\n\n<p><img src=\"uploads/2018/ef9fbb29a4.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "After the shower #Fenway\n\n<img src=\"uploads/2018/ef9fbb29a4.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-08-02T21:26:45-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/02/after-the-shower.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/02/angelic-face-sanmarco.html",
+				
+				"content_html": "<p>Angelic face</p>\n\n<p>#sanmarco</p>\n\n<p><img src=\"uploads/2018/df3b3b12e2.jpg\" width=\"450\" height=\"600\" /></p>\n",
+				"content_text": "Angelic face\n\n#sanmarco\n\n<img src=\"uploads/2018/df3b3b12e2.jpg\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2018-08-01T21:43:37-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/01/angelic-face-sanmarco.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/08/01/emoji-should-be.html",
+				
+				"content_html": "<p>Emoji should be even more nestable.</p>\n\n<p>Breast-Feeding: Vampire: Man in Lotus Position: Medium-Light Skin Tone</p>\n",
+				"content_text": "Emoji should be even more nestable.\n\nBreast-Feeding: Vampire: Man in Lotus Position: Medium-Light Skin Tone\n",
+				"date_published": "2018-08-01T17:27:00-04:00",
+				"url": "https://micro.matthewshanley.com/2018/08/01/emoji-should-be.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/07/28/181939.html",
+				
+				"content_html": "<p>Cheese cutting diagrams\n<a href=\"https://culturecheesemag.com/cheese-iq/piece-maker\">culturecheesemag.com/cheese-iq&hellip;</a>\n<a href=\"https://www.corneliuscheese.com.au/news/2017/11/8/how-to-cut-cheese\">www.corneliuscheese.com.au/news/2017&hellip;</a>\n🧀</p>\n",
+				"content_text": "Cheese cutting diagrams\n[culturecheesemag.com/cheese-iq...](https://culturecheesemag.com/cheese-iq/piece-maker)\n[www.corneliuscheese.com.au/news/2017...](https://www.corneliuscheese.com.au/news/2017/11/8/how-to-cut-cheese)\n🧀 \n",
+				"date_published": "2018-07-28T14:19:39-04:00",
+				"url": "https://micro.matthewshanley.com/2018/07/28/181939.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/07/24/boston-transportation-changes.html",
+				
+				"content_html": "<p><a href=\"https://boston.curbed.com/2018/7/23/17589862/boston-transportation-changes-bus-subway\">9 Boston transportation changes that should give commuters hope</a></p>\n",
+				"content_text": "[9 Boston transportation changes that should give commuters hope](https://boston.curbed.com/2018/7/23/17589862/boston-transportation-changes-bus-subway)\n",
+				"date_published": "2018-07-24T10:08:21-04:00",
+				"url": "https://micro.matthewshanley.com/2018/07/24/boston-transportation-changes.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/07/17/staring-out-the.html",
+				
+				"content_html": "<p>Staring out the window at a torrential downpour:\n“Look at the people… Poor suckers.”</p>\n",
+				"content_text": "Staring out the window at a torrential downpour: \n“Look at the people… Poor suckers.”\n",
+				"date_published": "2018-07-17T14:20:48-04:00",
+				"url": "https://micro.matthewshanley.com/2018/07/17/staring-out-the.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/07/14/an-animated-history.html",
+				
+				"content_html": "<p><a href=\"http://www.bc.edu/bc_org/avp/cas/fnart/fa267/boston/sequ_ani.gif\">An animated history of Boston landmaking</a></p>\n",
+				"content_text": "[An animated history of Boston landmaking](http://www.bc.edu/bc_org/avp/cas/fnart/fa267/boston/sequ_ani.gif)\n",
+				"date_published": "2018-07-14T12:11:46-04:00",
+				"url": "https://micro.matthewshanley.com/2018/07/14/an-animated-history.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/07/13/til-gooseberries-are.html",
+				
+				"content_html": "<p>TIL gooseberries are delicious.</p>\n",
+				"content_text": "TIL gooseberries are delicious.\n",
+				"date_published": "2018-07-13T14:54:17-04:00",
+				"url": "https://micro.matthewshanley.com/2018/07/13/til-gooseberries-are.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/07/13/the-essex-green.html",
+				
+				"content_html": "<p>The Essex Green — Hardly Electronic\n🎵\nI love this band so damn much!</p>\n",
+				"content_text": "The Essex Green — Hardly Electronic\n🎵\nI love this band so damn much!\n",
+				"date_published": "2018-07-13T11:19:39-04:00",
+				"url": "https://micro.matthewshanley.com/2018/07/13/the-essex-green.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/07/11/libpd-embed-pd.html",
+				
+				"content_html": "<p><a href=\"http://libpd.cc\">Libpd</a>: embed Pd into iOS apps or anywhere else that can run native code</p>\n",
+				"content_text": "[Libpd](http://libpd.cc): embed Pd into iOS apps or anywhere else that can run native code\n",
+				"date_published": "2018-07-11T12:50:59-04:00",
+				"url": "https://micro.matthewshanley.com/2018/07/11/libpd-embed-pd.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/07/10/thousand-wounds-of.html",
+				
+				"content_html": "<p><a href=\"https://www.discogs.com/Arts-Thousand-Wounds-Of-War/release/3617904\"><em>Thousand Wounds Of War</em></a>, a vinyl re-release of the originally self-titled cassette by The Arts 🎵</p>\n",
+				"content_text": "[_Thousand Wounds Of War_](https://www.discogs.com/Arts-Thousand-Wounds-Of-War/release/3617904), a vinyl re-release of the originally self-titled cassette by The Arts 🎵 \n",
+				"date_published": "2018-07-10T10:31:11-04:00",
+				"url": "https://micro.matthewshanley.com/2018/07/10/thousand-wounds-of.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/06/22/daddy-long-legs.html",
+				
+				"content_html": "<p><a href=\"https://www.engadget.com/2018/06/22/backlog-daddy-long-legs/\">Daddy Long Legs: The undersea electric railway built and abandoned within six years</a></p>\n",
+				"content_text": "[Daddy Long Legs: The undersea electric railway built and abandoned within six years](https://www.engadget.com/2018/06/22/backlog-daddy-long-legs/)\n",
+				"date_published": "2018-06-22T16:28:01-04:00",
+				"url": "https://micro.matthewshanley.com/2018/06/22/daddy-long-legs.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/06/19/garden-wall-boboligardens.html",
+				
+				"content_html": "<p>Garden wall</p>\n\n<p>#boboligardens</p>\n\n<p><img src=\"uploads/2018/7346beaea6.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Garden wall\n\n#boboligardens\n\n<img src=\"uploads/2018/7346beaea6.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-06-19T08:27:21-04:00",
+				"url": "https://micro.matthewshanley.com/2018/06/19/garden-wall-boboligardens.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/06/15/down-the-street.html",
+				
+				"content_html": "<p>Down the street</p>\n\n<p>#duomo</p>\n\n<p><img src=\"uploads/2018/4fdc6b04e6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Down the street\n\n#duomo\n\n<img src=\"uploads/2018/4fdc6b04e6.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-06-14T20:59:12-04:00",
+				"url": "https://micro.matthewshanley.com/2018/06/14/down-the-street.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/06/13/baby-lemons-boboligardens.html",
+				
+				"content_html": "<p>Baby lemons</p>\n\n<p>#boboligardens</p>\n\n<p><img src=\"uploads/2018/32b91ea334.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Baby lemons\n\n#boboligardens\n\n<img src=\"uploads/2018/32b91ea334.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-06-13T19:42:07-04:00",
+				"url": "https://micro.matthewshanley.com/2018/06/13/baby-lemons-boboligardens.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/06/12/rio-di-san.html",
+				
+				"content_html": "<p>Rio di San Mauro</p>\n\n<p>#burano</p>\n\n<p><img src=\"uploads/2018/26cb21f1c3.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Rio di San Mauro\n\n#burano\n\n<img src=\"uploads/2018/26cb21f1c3.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-06-12T19:44:30-04:00",
+				"url": "https://micro.matthewshanley.com/2018/06/12/rio-di-san.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/06/11/excited-to-say.html",
+				
+				"content_html": "<p>Excited to say that I&rsquo;m working for the <a href=\"https://www.mbta.com\">MBTA</a> now. I&rsquo;m a member of the Customer Technology group, surrounded by transit and Elixir nerds.</p>\n",
+				"content_text": "Excited to say that I'm working for the [MBTA](https://www.mbta.com) now. I'm a member of the Customer Technology group, surrounded by transit and Elixir nerds.\n",
+				"date_published": "2018-06-11T15:06:41-04:00",
+				"url": "https://micro.matthewshanley.com/2018/06/11/excited-to-say.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/06/01/above-david.html",
+				
+				"content_html": "<p>Above David</p>\n\n<p><img src=\"uploads/2018/d510fa833c.jpg\" width=\"450\" height=\"600\" /></p>\n",
+				"content_text": "Above David\n\n<img src=\"uploads/2018/d510fa833c.jpg\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2018-06-01T16:00:52-04:00",
+				"url": "https://micro.matthewshanley.com/2018/06/01/above-david.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/31/still-life-wall.html",
+				
+				"content_html": "<p>Still life #wall</p>\n\n<p><img src=\"uploads/2018/15c578349d.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Still life #wall\n\n<img src=\"uploads/2018/15c578349d.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-05-30T21:06:40-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/30/still-life-wall.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/28/sunset-over-florence.html",
+				
+				"content_html": "<p>Sunset over Florence</p>\n\n<p>#florence #sunset</p>\n\n<p><img src=\"uploads/2018/dffbbca760.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Sunset over Florence\n\n#florence #sunset \n\n<img src=\"uploads/2018/dffbbca760.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-05-28T19:06:20-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/28/sunset-over-florence.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/26/glass-collection-glass.html",
+				
+				"content_html": "<p>Glass collection</p>\n\n<p>#glass #lamps</p>\n\n<p><img src=\"uploads/2018/aaa1a0a8fb.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Glass collection\n\n#glass #lamps\n\n<img src=\"uploads/2018/aaa1a0a8fb.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-05-26T17:51:20-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/26/glass-collection-glass.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/25/karen-leading-a.html",
+				
+				"content_html": "<p>Karen leading a muddy hike #tuscany</p>\n\n<p><img src=\"uploads/2018/94082ce712.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Karen leading a muddy hike #tuscany \n\n<img src=\"uploads/2018/94082ce712.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-05-25T19:00:38-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/25/karen-leading-a.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/22/a-church-probably.html",
+				
+				"content_html": "<p>A church, probably #venice</p>\n\n<p><img src=\"uploads/2018/9491daa42e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "A church, probably #venice \n\n<img src=\"uploads/2018/9491daa42e.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-05-22T15:08:49-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/22/a-church-probably.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/21/boboli-gardens-giardini.html",
+				
+				"content_html": "<p>Boboli Gardens #giardini</p>\n\n<p><img src=\"uploads/2018/13263546e9.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Boboli Gardens #giardini \n\n<img src=\"uploads/2018/13263546e9.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-05-21T11:36:25-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/21/boboli-gardens-giardini.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/19/murano-e-burano.html",
+				
+				"content_html": "<p><a href=\"http://micro.matthewshanley.com/uploads/2018/de7102116a.jpg\"><img src=\"uploads/2018/de7102116a.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/cc2ed28ce0.jpg\"><img src=\"uploads/2018/cc2ed28ce0.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/2b12b37d6e.jpg\"><img src=\"uploads/2018/2b12b37d6e.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/995ab0fcf9.jpg\"><img src=\"uploads/2018/995ab0fcf9.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/9d2719cc55.jpg\"><img src=\"uploads/2018/9d2719cc55.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/d5b776d773.jpg\"><img src=\"uploads/2018/d5b776d773.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Murano e Burano</p>\n",
+				"content_text": "\n\n\n<a href=\"http://micro.matthewshanley.com/uploads/2018/de7102116a.jpg\"><img src=\"uploads/2018/de7102116a.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/cc2ed28ce0.jpg\"><img src=\"uploads/2018/cc2ed28ce0.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/2b12b37d6e.jpg\"><img src=\"uploads/2018/2b12b37d6e.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/995ab0fcf9.jpg\"><img src=\"uploads/2018/995ab0fcf9.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/9d2719cc55.jpg\"><img src=\"uploads/2018/9d2719cc55.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/d5b776d773.jpg\"><img src=\"uploads/2018/d5b776d773.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nMurano e Burano\n",
+				"date_published": "2018-05-19T19:05:42-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/19/murano-e-burano.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/19/venezia.html",
+				
+				"content_html": "<p><a href=\"http://micro.matthewshanley.com/uploads/2018/0167649af6.jpg\"><img src=\"uploads/2018/0167649af6.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/e3297d3d83.jpg\"><img src=\"uploads/2018/e3297d3d83.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/9bc668d15b.jpg\"><img src=\"uploads/2018/9bc668d15b.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/f0f5272a5d.jpg\"><img src=\"uploads/2018/f0f5272a5d.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/d6a2084f77.jpg\"><img src=\"uploads/2018/d6a2084f77.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Venezia</p>\n",
+				"content_text": "\n\n\n<a href=\"http://micro.matthewshanley.com/uploads/2018/0167649af6.jpg\"><img src=\"uploads/2018/0167649af6.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/e3297d3d83.jpg\"><img src=\"uploads/2018/e3297d3d83.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/9bc668d15b.jpg\"><img src=\"uploads/2018/9bc668d15b.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/f0f5272a5d.jpg\"><img src=\"uploads/2018/f0f5272a5d.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.matthewshanley.com/uploads/2018/d6a2084f77.jpg\"><img src=\"uploads/2018/d6a2084f77.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nVenezia\n",
+				"date_published": "2018-05-19T18:36:56-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/19/venezia.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/05/18/canal-from-under.html",
+				
+				"content_html": "<p>Canal from under an overhang</p>\n\n<p><img src=\"uploads/2018/995aca74bc.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "Canal from under an overhang\n\n<img src=\"uploads/2018/995aca74bc.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-05-18T17:41:15-04:00",
+				"url": "https://micro.matthewshanley.com/2018/05/18/canal-from-under.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/30/high.html",
+				
+				"content_html": "<p>High</p>\n\n<p><img src=\"uploads/2018/43dfe68d65.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "High\n\n<img src=\"uploads/2018/43dfe68d65.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-04-30T19:51:00-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/30/high.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/30/in-rotationjanelle-mone.html",
+				
+				"content_html": "<p>In Rotation:\nJanelle Monáe — Dirty Computer\n🎵</p>\n",
+				"content_text": "In Rotation:\nJanelle Monáe — Dirty Computer\n🎵\n",
+				"date_published": "2018-04-30T15:51:11-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/30/in-rotationjanelle-mone.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/29/edgewood-loves-you.html",
+				
+				"content_html": "<p><a href=\"http://micro.matthewshanley.com/uploads/2018/06c7caba37.jpg\"><img src=\"uploads/2018/06c7caba37.jpg\" width=\"600\" height=\"599\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Edgewood loves you</p>\n",
+				"content_text": "\n<a href=\"http://micro.matthewshanley.com/uploads/2018/06c7caba37.jpg\"><img src=\"uploads/2018/06c7caba37.jpg\" width=\"600\" height=\"599\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nEdgewood loves you\n",
+				"date_published": "2018-04-29T12:40:01-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/29/edgewood-loves-you.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/25/our-neighborhood-circa.html",
+				
+				"content_html": "<p><a href=\"https://blog.littlesecretsrecords.com/our-neighborhood-circa-1900/\">Our Neighborhood Circa 1900</a></p>\n",
+				"content_text": "[Our Neighborhood Circa 1900](https://blog.littlesecretsrecords.com/our-neighborhood-circa-1900/)\n",
+				"date_published": "2018-04-24T22:29:15-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/24/our-neighborhood-circa.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/19/in-rotationbuckshot-lefonque.html",
+				
+				"content_html": "<p>In Rotation:\nBuckshot LeFonque — Buckshot LeFonque\n🎵</p>\n",
+				"content_text": "In Rotation:\nBuckshot LeFonque — Buckshot LeFonque\n🎵\n",
+				"date_published": "2018-04-19T13:24:45-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/19/in-rotationbuckshot-lefonque.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/18/in-rotationeben-seaman.html",
+				
+				"content_html": "<p>In Rotation:\nEben Seaman — E-Resonates\n🎵</p>\n",
+				"content_text": "In Rotation:\nEben Seaman — E-Resonates\n🎵\n",
+				"date_published": "2018-04-18T14:44:50-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/18/in-rotationeben-seaman.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/15/wow-that-was.html",
+				
+				"content_html": "<p>Wow, that was nasty, by Pastrnak! 🏒🐻</p>\n",
+				"content_text": "Wow, that was nasty, by Pastrnak! 🏒🐻\n",
+				"date_published": "2018-04-14T22:55:16-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/14/wow-that-was.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/12/in-rotationgrateful-dead.html",
+				
+				"content_html": "<p>In Rotation:\nGrateful Dead — Wake Up To Find Out\n🎵</p>\n",
+				"content_text": "In Rotation:\nGrateful Dead — Wake Up To Find Out\n🎵\n",
+				"date_published": "2018-04-12T17:54:17-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/12/in-rotationgrateful-dead.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/12/201350.html",
+				
+				"content_html": "<p>In Rotation:\nJosé James — Blackmagic\n🎵</p>\n",
+				"content_text": "In Rotation:\nJosé James — Blackmagic\n🎵\n",
+				"date_published": "2018-04-12T16:13:50-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/12/201350.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/10/in-rotationmbongwana-star.html",
+				
+				"content_html": "<p>In Rotation:\nMbongwana Star — From Kinshasa\n🎵</p>\n",
+				"content_text": "In Rotation:\nMbongwana Star — From Kinshasa\n🎵\n",
+				"date_published": "2018-04-10T16:47:49-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/10/in-rotationmbongwana-star.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/10/in-rotation-frank.html",
+				
+				"content_html": "<p>In Rotation:\nFrank Ocean — Channel Orange\n🎵</p>\n",
+				"content_text": "In Rotation: \nFrank Ocean — Channel Orange \n🎵\n",
+				"date_published": "2018-04-10T15:48:17-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/10/in-rotation-frank.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/10/in-rotationflowercorsano-duo.html",
+				
+				"content_html": "<p>In Rotation:\nFlower-Corsano duo — the Four Aims\n🎵\n(It&rsquo;s apparently shaping up to be a weirdo kind of day)</p>\n",
+				"content_text": "In Rotation:\nFlower-Corsano duo — the Four Aims\n🎵\n(It's apparently shaping up to be a weirdo kind of day)\n",
+				"date_published": "2018-04-10T14:03:44-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/10/in-rotationflowercorsano-duo.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/10/in-rotationsix-organs.html",
+				
+				"content_html": "<p>In Rotation\nSix Organs of Admittance — Burning the Threshold\n🎵</p>\n",
+				"content_text": "In Rotation\nSix Organs of Admittance — Burning the Threshold\n🎵\n",
+				"date_published": "2018-04-10T13:22:10-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/10/in-rotationsix-organs.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/09/in-rotationcamper-van.html",
+				
+				"content_html": "<p>In Rotation\nCamper Van Beethoven — La Costa Perdida\n🎵</p>\n",
+				"content_text": "In Rotation\nCamper Van Beethoven — La Costa Perdida\n🎵\n",
+				"date_published": "2018-04-09T17:55:44-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/09/in-rotationcamper-van.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/03/in-case-excellent.html",
+				
+				"content_html": "<p>In case excellent writing about other cities and national stories wasn&rsquo;t enough for you, <a href=\"https://theathletic.com\">The Athletic</a> now has a dedicated Boston section!</p>\n",
+				"content_text": "In case excellent writing about other cities and national stories wasn't enough for you, [The Athletic](https://theathletic.com) now has a dedicated Boston section!\n",
+				"date_published": "2018-04-03T14:50:45-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/03/in-case-excellent.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/03/in-rotationkhalid-american.html",
+				
+				"content_html": "<p>In Rotation\nKhalid — American Teen\n🎵</p>\n",
+				"content_text": "In Rotation\nKhalid — American Teen\n🎵\n",
+				"date_published": "2018-04-03T13:02:52-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/03/in-rotationkhalid-american.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/04/02/in-rotationkacey-musgraves.html",
+				
+				"content_html": "<p>In Rotation\nKacey Musgraves — Golden Hour\n🎵</p>\n",
+				"content_text": "In Rotation\nKacey Musgraves — Golden Hour\n🎵\n",
+				"date_published": "2018-04-02T15:56:45-04:00",
+				"url": "https://micro.matthewshanley.com/2018/04/02/in-rotationkacey-musgraves.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/31/chasing-her-tail.html",
+				
+				"content_html": "<p><a href=\"http://micro.matthewshanley.com/uploads/2018/b8dfd6396b.jpg\"><img src=\"uploads/2018/b8dfd6396b.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Chasing her tail 🐺</p>\n",
+				"content_text": "\n<a href=\"http://micro.matthewshanley.com/uploads/2018/b8dfd6396b.jpg\"><img src=\"uploads/2018/b8dfd6396b.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nChasing her tail 🐺\n",
+				"date_published": "2018-03-31T15:07:08-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/31/chasing-her-tail.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/30/in-rotationjos-james.html",
+				
+				"content_html": "<p>In Rotation\nJosé James — No Beginning No End\n(What am I doing wrong with my life that this is the first time I&rsquo;m listening to this album‽‽)\n🎵</p>\n",
+				"content_text": "In Rotation\nJosé James — No Beginning No End\n(What am I doing wrong with my life that this is the first time I'm listening to this album‽‽)\n🎵 \n",
+				"date_published": "2018-03-30T14:40:54-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/30/in-rotationjos-james.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/23/in-rotationthe-beatles.html",
+				
+				"content_html": "<p>In Rotation:\nThe Beatles - Rubber Soul\n🎵</p>\n",
+				"content_text": "In Rotation:\nThe Beatles - Rubber Soul\n🎵\n",
+				"date_published": "2018-03-23T15:35:54-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/23/in-rotationthe-beatles.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/22/in-rotation-mark.html",
+				
+				"content_html": "<p>In Rotation:\nMark Kozelek &amp; Desertshore - Mark Kozelek &amp; Desertshore\n🎵</p>\n",
+				"content_text": "In Rotation: \nMark Kozelek & Desertshore - Mark Kozelek & Desertshore\n🎵\n",
+				"date_published": "2018-03-22T13:28:08-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/22/in-rotation-mark.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/20/in-rotationfrederic-rzewski.html",
+				
+				"content_html": "<p>In Rotation:\nFrederic Rzewski - The People United Will Never Be Defeated! (Ralph van Raat, piano)\n🎵</p>\n",
+				"content_text": "In Rotation:\nFrederic Rzewski - The People United Will Never Be Defeated! (Ralph van Raat, piano)\n🎵\n",
+				"date_published": "2018-03-20T16:11:05-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/20/in-rotationfrederic-rzewski.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/19/in-rotationthe-war.html",
+				
+				"content_html": "<p>In Rotation\nThe War on Drugs - A Deeper Understanding\n🎵</p>\n",
+				"content_text": "In Rotation\nThe War on Drugs - A Deeper Understanding\n🎵\n",
+				"date_published": "2018-03-19T16:26:39-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/19/in-rotationthe-war.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/16/im-saddened-to.html",
+				
+				"content_html": "<p>I&rsquo;m saddened to hear about the passing of Louise Slaughter. She worked so hard and for so long for her district and the country. She was an inspiration and will be missed.</p>\n",
+				"content_text": "I'm saddened to hear about the passing of Louise Slaughter. She worked so hard and for so long for her district and the country. She was an inspiration and will be missed.\n",
+				"date_published": "2018-03-16T13:12:48-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/16/im-saddened-to.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/15/in-rotationserge-gainsbourg.html",
+				
+				"content_html": "<p>In Rotation:\nSerge Gainsbourg - Anna\n 🎵</p>\n",
+				"content_text": "In Rotation:\nSerge Gainsbourg - Anna\n 🎵\n",
+				"date_published": "2018-03-15T17:05:47-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/15/in-rotationserge-gainsbourg.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/14/in-rotationbroadcast-the.html",
+				
+				"content_html": "<p>In Rotation:\nBroadcast - The Noise Made By People\n🎵</p>\n",
+				"content_text": "In Rotation:\nBroadcast - The Noise Made By People\n🎵\n",
+				"date_published": "2018-03-14T19:04:04-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/14/in-rotationbroadcast-the.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/13/snowstorm.html",
+				
+				"content_html": "<p><a href=\"http://micro.matthewshanley.com/uploads/2018/cefaf36c95.jpg\"><img src=\"uploads/2018/cefaf36c95.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Snowstorm 🌨</p>\n",
+				"content_text": "\n<a href=\"http://micro.matthewshanley.com/uploads/2018/cefaf36c95.jpg\"><img src=\"uploads/2018/cefaf36c95.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSnowstorm 🌨\n",
+				"date_published": "2018-03-13T14:35:49-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/13/snowstorm.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/03/08/post-office-square.html",
+				
+				"content_html": "<p><img src=\"uploads/2018/89714a5361.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Post Office Square snow</p>\n",
+				"content_text": "\n<img src=\"uploads/2018/89714a5361.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nPost Office Square snow\n\n\n",
+				"date_published": "2018-03-08T12:44:47-04:00",
+				"url": "https://micro.matthewshanley.com/2018/03/08/post-office-square.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/02/08/a-chat-with.html",
+				
+				"content_html": "<p><a href=\"https://www.clickondetroit.com/all-about-ann-arbor/a-chat-with-the-designers-of-the-2018-ann-arbor-film-festival\">A chat with the designers of the 2018 Ann Arbor Film Festival</a></p>\n",
+				"content_text": "[A chat with the designers of the 2018 Ann Arbor Film Festival](https://www.clickondetroit.com/all-about-ann-arbor/a-chat-with-the-designers-of-the-2018-ann-arbor-film-festival)\n",
+				"date_published": "2018-02-08T13:15:46-04:00",
+				"url": "https://micro.matthewshanley.com/2018/02/08/a-chat-with.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/02/05/the-census-is.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=xZTD-00H1jE\">The 2020 census is in serious trouble</a></p>\n",
+				"content_text": "[The 2020 census is in serious trouble](https://www.youtube.com/watch?v=xZTD-00H1jE)\n",
+				"date_published": "2018-02-05T19:03:14-04:00",
+				"url": "https://micro.matthewshanley.com/2018/02/05/the-census-is.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/02/05/i-cant-believe.html",
+				
+				"content_html": "<p>I can’t believe it’s already #TruckDay! Seems like football season was just yesterday. <a href=\"http://www.masslive.com/redsox/index.ssf/2018/02/boston_red_sox_truck_day_2018.html\">www.masslive.com/redsox/in&hellip;</a></p>\n",
+				"content_text": "I can’t believe it’s already #TruckDay! Seems like football season was just yesterday. [www.masslive.com/redsox/in...](http://www.masslive.com/redsox/index.ssf/2018/02/boston_red_sox_truck_day_2018.html)\n",
+				"date_published": "2018-02-05T09:17:11-04:00",
+				"url": "https://micro.matthewshanley.com/2018/02/05/i-cant-believe.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/02/05/missing-left-shark.html",
+				
+				"content_html": "<p>Missing Left Shark</p>\n",
+				"content_text": "Missing Left Shark \n",
+				"date_published": "2018-02-04T21:31:30-04:00",
+				"url": "https://micro.matthewshanley.com/2018/02/04/missing-left-shark.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/01/24/blanket-blanket.html",
+				
+				"content_html": "<p>2017-10-19</p>\n\n<p><img src=\"uploads/2018/3bcb285c0b.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /></p>\n\n<p>Blanket 1</p>\n\n<p>2017-10-22</p>\n\n<p><img src=\"uploads/2018/254937457e.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /></p>\n\n<p>Blanket 2</p>\n",
+				"content_text": "\n2017-10-19\n\n<img src=\"uploads/2018/3bcb285c0b.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" />\n\nBlanket 1\n\n\n\n2017-10-22\n\n<img src=\"uploads/2018/254937457e.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" />\n\nBlanket 2\n\n\n\n\n",
+				"date_published": "2018-01-24T19:00:42-04:00",
+				"url": "https://micro.matthewshanley.com/2018/01/24/blanket-blanket.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/01/19/gateway-to-the.html",
+				
+				"content_html": "<p>Gateway to the East</p>\n\n<p><img src=\"uploads/2018/3895a454fb.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Gateway to the East\n\n<img src=\"uploads/2018/3895a454fb.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-01-19T18:56:16-04:00",
+				"url": "https://micro.matthewshanley.com/2018/01/19/gateway-to-the.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/01/19/i-missed-the.html",
+				
+				"content_html": "<p>I missed the sad news that <a href=\"https://www.joefrank.com\">Joe Frank</a> died earlier this week. What a hero of radio.</p>\n",
+				"content_text": "I missed the sad news that [Joe Frank](https://www.joefrank.com) died earlier this week. What a hero of radio.\n",
+				"date_published": "2018-01-19T15:27:11-04:00",
+				"url": "https://micro.matthewshanley.com/2018/01/19/i-missed-the.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2018/01/14/baby-on-a.html",
+				
+				"content_html": "<p>Baby on a couch  #baptismweekend</p>\n\n<p><img src=\"uploads/2018/8bfd029c23.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "Baby on a couch  #baptismweekend \n\n<img src=\"uploads/2018/8bfd029c23.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2018-01-13T22:40:41-04:00",
+				"url": "https://micro.matthewshanley.com/2018/01/13/baby-on-a.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/12/05/the-polar-express.html",
+				
+				"content_html": "<p>The Polar Express</p>\n\n<p><img src=\"uploads/2017/822fa6bfdd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "The Polar Express \n\n<img src=\"uploads/2017/822fa6bfdd.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2017-12-05T11:10:15-04:00",
+				"url": "https://micro.matthewshanley.com/2017/12/05/the-polar-express.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/11/08/i-voted.html",
+				
+				"content_html": "<p>I Voted</p>\n\n<p><img src=\"uploads/2017/489a313846.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "I Voted\n\n<img src=\"uploads/2017/489a313846.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2017-11-07T20:37:30-04:00",
+				"url": "https://micro.matthewshanley.com/2017/11/07/i-voted.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/11/07/you-can-get.html",
+				
+				"content_html": "<p>“You can get to the 700th hobo name, I promise you.”</p>\n\n<p><a href=\"https://overcast.fm/+FRmlgTM\">overcast.fm/+FRmlgTM</a></p>\n",
+				"content_text": "“You can get to the 700th hobo name, I promise you.”\n\n[overcast.fm/+FRmlgTM](https://overcast.fm/+FRmlgTM)\n",
+				"date_published": "2017-11-07T19:39:31-04:00",
+				"url": "https://micro.matthewshanley.com/2017/11/07/you-can-get.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/10/20/cant-wait-for.html",
+				
+				"content_html": "<p>Can’t wait for Processing Community Day tomorrow at the Media Lab! Hope to see you there. <a href=\"https://day.processing.org\">day.processing.org</a> #pcd17</p>\n",
+				"content_text": "Can’t wait for Processing Community Day tomorrow at the Media Lab! Hope to see you there. [day.processing.org](https://day.processing.org) #pcd17\n",
+				"date_published": "2017-10-20T16:22:31-04:00",
+				"url": "https://micro.matthewshanley.com/2017/10/20/cant-wait-for.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/09/29/us-response-in.html",
+				
+				"content_html": "<p><a href=\"https://www.washingtonpost.com/investigations/us-responded-to-haiti-quake-more-forcefully-than-to-puerto-rico-disaster/2017/09/28/74fe9c02-a465-11e7-8cfe-d5b912fabc99_story.html\">U.S. response in Puerto Rico pales next to actions after Haiti quake</a> from the Washington Post</p>\n",
+				"content_text": "[U.S. response in Puerto Rico pales next to actions after Haiti quake](https://www.washingtonpost.com/investigations/us-responded-to-haiti-quake-more-forcefully-than-to-puerto-rico-disaster/2017/09/28/74fe9c02-a465-11e7-8cfe-d5b912fabc99_story.html) from the Washington Post\n",
+				"date_published": "2017-09-29T15:31:05-04:00",
+				"url": "https://micro.matthewshanley.com/2017/09/29/us-response-in.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/09/26/i-voted.html",
+				
+				"content_html": "<p>I Voted</p>\n\n<p><img src=\"uploads/2017/f2736124f3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "I Voted\n\n<img src=\"uploads/2017/f2736124f3.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2017-09-26T18:58:31-04:00",
+				"url": "https://micro.matthewshanley.com/2017/09/26/i-voted.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/09/13/sad-to-hear.html",
+				
+				"content_html": "<p>Sad to hear that @jm_bos is closing down the Political Happy Hour newsletter! Thanks for such a wonderful resource.</p>\n",
+				"content_text": "Sad to hear that @jm_bos is closing down the Political Happy Hour newsletter! Thanks for such a wonderful resource.\n",
+				"date_published": "2017-09-13T19:41:54-04:00",
+				"url": "https://micro.matthewshanley.com/2017/09/13/sad-to-hear.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/08/04/convening-for-the.html",
+				
+				"content_html": "<p>“Convening for the first time” - the first ever Planning Processing Community Day is happening October 21st in Cambridge! <a href=\"https://medium.com/@ProcessingOrg/planning-processing-community-day-81eefffafd41\">medium.com/@Processi&hellip;</a></p>\n",
+				"content_text": "“Convening for the first time” - the first ever Planning Processing Community Day is happening October 21st in Cambridge! [medium.com/@Processi...](https://medium.com/@ProcessingOrg/planning-processing-community-day-81eefffafd41)\n",
+				"date_published": "2017-08-04T11:43:32-04:00",
+				"url": "https://micro.matthewshanley.com/2017/08/04/convening-for-the.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/07/27/what-is-that.html",
+				
+				"content_html": "<p>“What is that thing all those cables are plugged in to?” I guess the Mac Pro trash can never sold very well…</p>\n",
+				"content_text": "“What is that thing all those cables are plugged in to?” I guess the Mac Pro trash can never sold very well…\n",
+				"date_published": "2017-07-26T22:31:31-04:00",
+				"url": "https://micro.matthewshanley.com/2017/07/26/what-is-that.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/06/22/idea-prepared-calliope.html",
+				
+				"content_html": "<p>Idea: prepared calliope</p>\n",
+				"content_text": "Idea: prepared calliope\n",
+				"date_published": "2017-06-22T14:03:52-04:00",
+				"url": "https://micro.matthewshanley.com/2017/06/22/idea-prepared-calliope.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/06/21/standard-ebookshttpsstandardebooksorg-is.html",
+				
+				"content_html": "<p><a href=\"https://standardebooks.org\">Standard Ebooks</a> is a volunteer driven, not-for-profit project that produces lovingly formatted, open source, and free public domain ebooks.</p>\n",
+				"content_text": "[Standard Ebooks](https://standardebooks.org) is a volunteer driven, not-for-profit project that produces lovingly formatted, open source, and free public domain ebooks.\n",
+				"date_published": "2017-06-21T16:59:27-04:00",
+				"url": "https://micro.matthewshanley.com/2017/06/21/standard-ebookshttpsstandardebooksorg-is.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/06/13/img-srchttparkadyanmicrobloguploadsccfafjpg-width.html",
+				
+				"content_html": "<p><img src=\"uploads/2017/1ccf6a50f9.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+				"content_text": "<img src=\"uploads/2017/1ccf6a50f9.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
+				"date_published": "2017-06-13T12:43:09-04:00",
+				"url": "https://micro.matthewshanley.com/2017/06/13/img-srchttparkadyanmicrobloguploadsccfafjpg-width.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/06/09/i-got-to.html",
+				
+				"content_html": "<p>I got to have the fun of animating <a href=\"https://instagram.com/p/BVILHqRhTBg/\">this lovely bird by Laura Davidson</a>. Come to our opening tonight in Boston!</p>\n",
+				"content_text": "I got to have the fun of animating [this lovely bird by Laura Davidson](https://instagram.com/p/BVILHqRhTBg/). Come to our opening tonight in Boston!\n",
+				"date_published": "2017-06-09T14:19:37-04:00",
+				"url": "https://micro.matthewshanley.com/2017/06/09/i-got-to.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/06/09/reaching-the-end.html",
+				
+				"content_html": "<p>Reaching the end of “all my tech podcasts sound echo-y” week.</p>\n",
+				"content_text": "Reaching the end of “all my tech podcasts sound echo-y” week.\n",
+				"date_published": "2017-06-09T13:07:15-04:00",
+				"url": "https://micro.matthewshanley.com/2017/06/09/reaching-the-end.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/06/08/video-documentation-of.html",
+				
+				"content_html": "<p><a href=\"https://vimeo.com/220740469\">Video documentation of my piece <em>Projecting</em></a> from last year.</p>\n",
+				"content_text": "[Video documentation of my piece _Projecting_](https://vimeo.com/220740469) from last year.\n",
+				"date_published": "2017-06-07T22:49:07-04:00",
+				"url": "https://micro.matthewshanley.com/2017/06/08/video-documentation-of.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/06/02/we-sent-our.html",
+				
+				"content_html": "<p>We sent our reporter to check out a new driving app. <a href=\"http://www.bostonglobe.com/lifestyle/2017/06/01/sort-fast-and-marginally-furious-one-man-quest-live-out-his-automotive-fantasies/eK3D9tjvURVGhSwbaVs0OM/story.html\">That was a mistake.</a></p>\n",
+				"content_text": "We sent our reporter to check out a new driving app. [That was a mistake.](http://www.bostonglobe.com/lifestyle/2017/06/01/sort-fast-and-marginally-furious-one-man-quest-live-out-his-automotive-fantasies/eK3D9tjvURVGhSwbaVs0OM/story.html)\n",
+				"date_published": "2017-06-02T09:30:11-04:00",
+				"url": "https://micro.matthewshanley.com/2017/06/02/we-sent-our.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/28/what-a-race.html",
+				
+				"content_html": "<p>What a race by Dumoulin!</p>\n",
+				"content_text": "What a race by Dumoulin!\n",
+				"date_published": "2017-05-28T14:39:38-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/28/what-a-race.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/25/stopping-the-presses.html",
+				
+				"content_html": "<p>Stopping the presses <a href=\"http://www.bostonglobe.com/metro/2017/05/24/stopping-presses/7IP6RK7Z7NhENhOVbAkS9O/story.html\">www.bostonglobe.com/metro/201&hellip;</a></p>\n",
+				"content_text": "Stopping the presses [www.bostonglobe.com/metro/201...](http://www.bostonglobe.com/metro/2017/05/24/stopping-presses/7IP6RK7Z7NhENhOVbAkS9O/story.html)\n",
+				"date_published": "2017-05-25T14:28:21-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/25/stopping-the-presses.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/18/is-getting-interested.html",
+				
+				"content_html": "<p>Is getting interested in a new shell a cause for concern?\n<a href=\"https://fishshell.com\">fishshell.com</a></p>\n",
+				"content_text": "Is getting interested in a new shell a cause for concern? \n[fishshell.com](https://fishshell.com)\n",
+				"date_published": "2017-05-18T16:43:02-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/18/is-getting-interested.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/17/this-is-a.html",
+				
+				"content_html": "<p>This is a special episode: “This Is Chance: Anchorwoman of the Great Alaska Earthquake ” <a href=\"http://99percentinvisible.org/episode/chance-anchorwoman-great-alaska-earthquake/\">99percentinvisible.org/episode/c&hellip;</a></p>\n",
+				"content_text": "This is a special episode: “This Is Chance: Anchorwoman of the Great Alaska Earthquake ” [99percentinvisible.org/episode/c...](http://99percentinvisible.org/episode/chance-anchorwoman-great-alaska-earthquake/)\n",
+				"date_published": "2017-05-16T20:12:41-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/17/this-is-a.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/12/playing-a-game.html",
+				
+				"content_html": "<p>Playing a game of &ldquo;who has worse documentation, AWS or SparkleFormation?&rdquo;</p>\n",
+				"content_text": "Playing a game of \"who has worse documentation, AWS or SparkleFormation?\"\n",
+				"date_published": "2017-05-12T16:46:00-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/12/playing-a-game.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/11/how-a-somerville.html",
+				
+				"content_html": "<p>How a Somerville nonprofit revolutionized American politics <a href=\"http://www.bostonglobe.com/magazine/2017/05/09/how-somerville-actblue-revolutionized-american-politics/Vev2sgidKycWKePKcmg65N/story.html\">www.bostonglobe.com/magazine/&hellip;</a></p>\n",
+				"content_text": "How a Somerville nonprofit revolutionized American politics [www.bostonglobe.com/magazine/...](http://www.bostonglobe.com/magazine/2017/05/09/how-somerville-actblue-revolutionized-american-politics/Vev2sgidKycWKePKcmg65N/story.html)\n",
+				"date_published": "2017-05-11T13:32:03-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/11/how-a-somerville.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/11/where-are-you.html",
+				
+				"content_html": "<p>“Where are you? Who are you?” <a href=\"https://www.theatlantic.com/politics/archive/2017/05/this-is-not-a-drill/526056/\">www.theatlantic.com/politics/&hellip;</a></p>\n",
+				"content_text": "“Where are you? Who are you?” [www.theatlantic.com/politics/...](https://www.theatlantic.com/politics/archive/2017/05/this-is-not-a-drill/526056/)\n",
+				"date_published": "2017-05-10T23:23:23-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/11/where-are-you.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/04/dmbq-understands.html",
+				
+				"content_html": "<p>DMBQ understands</p>\n",
+				"content_text": "DMBQ understands\n",
+				"date_published": "2017-05-04T15:54:29-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/04/dmbq-understands.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/04/the-republican-health.html",
+				
+				"content_html": "<p>The Republican health care bill is a betrayal of all the GOP’s promises <a href=\"https://www.vox.com/policy-and-politics/2017/5/4/15542342/ahca-promises-broken\">https://www.vox.com/policy-and-politics/2017/5/4/15542342/ahca-promises-broken</a></p>\n",
+				"content_text": "The Republican health care bill is a betrayal of all the GOP’s promises [https://www.vox.com/policy-and-politics/2017/5/4/15542342/ahca-promises-broken](https://www.vox.com/policy-and-politics/2017/5/4/15542342/ahca-promises-broken)\n",
+				"date_published": "2017-05-04T12:36:27-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/04/the-republican-health.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/03/atne-event-tonight.html",
+				
+				"content_html": "<p>ATNE event tonight. Experience the Games And Politics show and hear some words for Ben Houge. <a href=\"http://atne.org/events/may-3rd-games-and-politics-ben-houge/\">http://atne.org/events/may-3rd-games-and-politics-ben-houge/</a></p>\n",
+				"content_text": "ATNE event tonight. Experience the Games And Politics show and hear some words for Ben Houge. [http://atne.org/events/may-3rd-games-and-politics-ben-houge/](http://atne.org/events/may-3rd-games-and-politics-ben-houge/)\n",
+				"date_published": "2017-05-03T16:13:10-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/03/atne-event-tonight.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/02/light-in-the.html",
+				
+				"content_html": "<p>Light in the sky <a href=\"https://instagram.com/p/BTk18-YjZyi/\">https://instagram.com/p/BTk18-YjZyi/</a></p>\n",
+				"content_text": "Light in the sky [https://instagram.com/p/BTk18-YjZyi/](https://instagram.com/p/BTk18-YjZyi/)\n",
+				"date_published": "2017-05-01T23:58:40-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/02/light-in-the.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/05/02/scheduled-an-email.html",
+				
+				"content_html": "<p>Scheduled an email announcement, verified my website, paid a bill… Seems like enough to call the evening internet productive.</p>\n",
+				"content_text": "Scheduled an email announcement, verified my website, paid a bill… Seems like enough to call the evening internet productive.\n",
+				"date_published": "2017-05-01T21:10:34-04:00",
+				"url": "https://micro.matthewshanley.com/2017/05/02/scheduled-an-email.html"
+			},
+			{
+				"id": "http://arkadyan.micro.blog/2017/04/29/hello.html",
+				
+				"content_html": "<p>Hello</p>\n",
+				"content_text": "Hello\n",
+				"date_published": "2017-04-29T07:43:57-04:00",
+				"url": "https://micro.matthewshanley.com/2017/04/29/hello.html"
+			}
+	]
+}
